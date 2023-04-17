@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e93f57d7-d238-4b7a-890e-2954a22239bd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Machine-Learning-Model-Validation/digits_dataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine-Learning-Model-Validation/digits_dataset.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Naive-Bayes/Spam_Emails_Naive_Bayes/spam_emails_naive_bayes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Naive-Bayes/Spam_Emails_Naive_Bayes/spam_emails_naive_bayes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Naive-Bayes/Titanic-Naive_Bayes/titanic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Naive-Bayes/Titanic-Naive_Bayes/titanic.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Naive-Bayes/iris_flower_naive_bayes/iris_flower_naive_bayes_using_numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Naive-Bayes/iris_flower_naive_bayes/iris_flower_naive_bayes_using_numpy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random-Forest-Iris-Flower/.ipynb_checkpoints/iris_flower-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Random-Forest-Iris-Flower/.ipynb_checkpoints/iris_flower-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random-Forest-Iris-Flower/iris_flower.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Random-Forest-Iris-Flower/iris_flower.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Support-Vector-Machines/Handwritten-Digits/.ipynb_checkpoints/handwritten_digits-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Support-Vector-Machines/Handwritten-Digits/.ipynb_checkpoints/handwritten_digits-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Support-Vector-Machines/Handwritten-Digits/handwritten_digits.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Support-Vector-Machines/Handwritten-Digits/handwritten_digits.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canada_per_capita_income/canada_per_capita_income.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/canada_per_capita_income/canada_per_capita_income.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_one_hot_encoding/.ipynb_checkpoints/one_hot_encoding_car_prices-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_one_hot_encoding/.ipynb_checkpoints/one_hot_encoding_car_prices-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_one_hot_encoding/one_hot_encoding_car_prices.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_one_hot_encoding/one_hot_encoding_car_prices.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_regression_hiring/.ipynb_checkpoints/exercise_regression_hiring-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_regression_hiring/.ipynb_checkpoints/exercise_regression_hiring-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_regression_hiring/exercise_regression_hiring.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_regression_hiring/exercise_regression_hiring.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Bengaluru-House-Price-Project" />
+  </component>
+  <component name="ProjectId" id="2J1qjRfDssmr1CjsVfscgiCsZ8g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bijayamanandhar/Desktop/codebasics_data_science&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e93f57d7-d238-4b7a-890e-2954a22239bd" name="Changes" comment="" />
+      <created>1671256072028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671256072028</updated>
+    </task>
+    <servers />
+  </component>
+</project>

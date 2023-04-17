@@ -1,0 +1,13 @@
+,Car Model,Mileage,Sell Price($),Age(yrs),color
+0,BMW X5,69000.0,18000.0,6.0,green
+1,BMW X5,35000.0,34000.0,3.0,orange
+2,BMW X5,57000.0,26100.0,5.0,blue
+3,BMW X5,22500.0,40000.0,2.0,green
+4,BMW X5,46000.0,31500.0,4.0,orange
+5,Audi A5,59000.0,29400.0,5.0,blue
+6,Audi A5,52000.0,32000.0,5.0,green
+7,Audi A5,72000.0,19300.0,6.0,orange
+8,Audi A5,91000.0,12000.0,8.0,blue
+9,Mercedez Benz C class,67000.0,22000.0,6.0,green
+10,Mercedez Benz C class,83000.0,20000.0,7.0,orange
+11,Mercedez Benz C class,79000.0,21000.0,7.0,blue

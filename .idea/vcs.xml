@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Bengaluru-House-Price-Project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Combined_Cycle_Power_Plant" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Hyper-Parameter-Tuning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Logistic-Regression-Hand-Written-Characters" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Machine-Learning-Model-Validation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Naive-Bayes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Random-Forest-Iris-Flower" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Support-Vector-Machines/Handwritten-Digits" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/canada_per_capita_income" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise_one_hot_encoding" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise_regression_hiring" vcs="Git" />
+  </component>
+</project>
